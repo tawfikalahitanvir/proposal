@@ -1,0 +1,14 @@
+section{
+    text-align: center;
+}
+section h1{
+    font-size: 500px;
+    color: white;
+}
+body{
+    background-color: #000000;
+}
+img{
+    width: auto;
+    height: auto;
+}
